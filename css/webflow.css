@@ -517,7 +517,7 @@ textarea.w-select {
   margin-right: auto;
   max-width: 940px;
 }
-.w-container:before,
+/* .w-container:before,
 .w-container:after {
   content: " ";
   display: table;
@@ -525,10 +525,10 @@ textarea.w-select {
   grid-row-start: 1;
   grid-column-end: 2;
   grid-row-end: 2;
-}
-.w-container:after {
+} */
+/* .w-container:after {
   clear: both;
-}
+} */
 .w-container .w-row {
   margin-left: -10px;
   margin-right: -10px;
